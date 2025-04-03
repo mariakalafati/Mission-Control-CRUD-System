@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\Maria\Documents\Mission-Control-CRUD-System\src\main\java\gr\SpaceX\MarsOps\controller\ResourceStockController.java">
+</file>
+<file name="C:\Users\Maria\Documents\Mission-Control-CRUD-System\src\main\java\gr\SpaceX\MarsOps\MarsOpsApplication.java">
+</file>
+<file name="C:\Users\Maria\Documents\Mission-Control-CRUD-System\src\main\java\gr\SpaceX\MarsOps\model\ResourceStock.java">
+</file>
+<file name="C:\Users\Maria\Documents\Mission-Control-CRUD-System\src\main\java\gr\SpaceX\MarsOps\repository\ResourceStockRepository.java">
+</file>
+<file name="C:\Users\Maria\Documents\Mission-Control-CRUD-System\src\main\resources\application.properties">
+</file>
+</checkstyle>

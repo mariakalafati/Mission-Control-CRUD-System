@@ -1,0 +1,4 @@
+gr\SpaceX\MarsOps\model\ResourceStock.class
+gr\SpaceX\MarsOps\repository\ResourceStockRepository.class
+gr\SpaceX\MarsOps\controller\ResourceStockController.class
+gr\SpaceX\MarsOps\MarsOpsApplication.class
