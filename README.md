@@ -10,7 +10,6 @@ The goal of this project is to set up a fully automated **CI/CD pipeline** to en
 - Manage space station resources (CRUD operations).
 - Integrate a **CI/CD pipeline** with **GitHub Actions**.
 - Use **Docker** to containerize the backend application and integrate a simple UI for user interaction.
-- **Docker Compose** is used to automate the local environment setup for frontend, backend, and database.
 
 ## Purpose
 This repository serves as an example project for the "Mission: Mars Deployment" CI/CD challenge, where DevOps principles are applied to ensure that the **MarsOps CRUD Application** is always deployed in a reliable and automated way. It demonstrates:
@@ -18,7 +17,6 @@ This repository serves as an example project for the "Mission: Mars Deployment" 
 - Unit tests and coverage (JaCoCo).
 - Build automation with **Maven**.
 - Docker containerization of the backend service.
-- Integration with **Docker Compose** for multi-container setup (Frontend + Backend + Database).
 
 The project also includes a simple HTML interface for users to interact with the backend CRUD system.
 
